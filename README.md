@@ -2,6 +2,6 @@
 
 
 
-hola soy nati
+hola soy lu nati
 
 estoy modificando codigo desde github
